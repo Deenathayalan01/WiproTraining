@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sameera.mohamed\\source\\repos\\SecureApp\\SecureAppTest\\SecureAppTest.csproj": {}
+    "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\SecureApp\\SecureAppTest\\SecureAppTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sameera.mohamed\\source\\repos\\SecureApp\\SecureAppTest\\SecureAppTest.csproj": {
+    "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\SecureApp\\SecureAppTest\\SecureAppTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sameera.mohamed\\source\\repos\\SecureApp\\SecureAppTest\\SecureAppTest.csproj",
+        "projectUniqueName": "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\SecureApp\\SecureAppTest\\SecureAppTest.csproj",
         "projectName": "SecureAppTest",
-        "projectPath": "C:\\Users\\sameera.mohamed\\source\\repos\\SecureApp\\SecureAppTest\\SecureAppTest.csproj",
-        "packagesPath": "C:\\Users\\sameera.mohamed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sameera.mohamed\\source\\repos\\SecureApp\\SecureAppTest\\obj\\",
+        "projectPath": "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\SecureApp\\SecureAppTest\\SecureAppTest.csproj",
+        "packagesPath": "C:\\Users\\Sameera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\SecureApp\\SecureAppTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\sameera.mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sameera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\sameera.mohamed\\source\\repos\\SecureApp\\SecureApp\\SecureApp.csproj": {
-                "projectPath": "C:\\Users\\sameera.mohamed\\source\\repos\\SecureApp\\SecureApp\\SecureApp.csproj"
+              "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\SecureApp\\SecureApp\\SecureApp.csproj": {
+                "projectPath": "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\SecureApp\\SecureApp\\SecureApp.csproj"
               }
             }
           }
@@ -43,7 +47,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -86,21 +91,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\sameera.mohamed\\source\\repos\\SecureApp\\SecureApp\\SecureApp.csproj": {
+    "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\SecureApp\\SecureApp\\SecureApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sameera.mohamed\\source\\repos\\SecureApp\\SecureApp\\SecureApp.csproj",
+        "projectUniqueName": "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\SecureApp\\SecureApp\\SecureApp.csproj",
         "projectName": "SecureApp",
-        "projectPath": "C:\\Users\\sameera.mohamed\\source\\repos\\SecureApp\\SecureApp\\SecureApp.csproj",
-        "packagesPath": "C:\\Users\\sameera.mohamed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sameera.mohamed\\source\\repos\\SecureApp\\SecureApp\\obj\\",
+        "projectPath": "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\SecureApp\\SecureApp\\SecureApp.csproj",
+        "packagesPath": "C:\\Users\\Sameera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\SecureApp\\SecureApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\sameera.mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sameera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -125,7 +134,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -152,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

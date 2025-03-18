@@ -33,19 +33,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sameera.mohamed\\.nuget\\packages\\": {}
+    "C:\\Users\\Sameera\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sameera.mohamed\\source\\repos\\Library\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\Library\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\Users\\sameera.mohamed\\source\\repos\\Library\\Library\\Library.csproj",
-      "packagesPath": "C:\\Users\\sameera.mohamed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sameera.mohamed\\source\\repos\\Library\\Library\\obj\\",
+      "projectPath": "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\Library\\Library\\Library.csproj",
+      "packagesPath": "C:\\Users\\Sameera\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sameera\\Desktop\\WiproTraining\\Phase1\\Library\\Library\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\sameera.mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sameera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -70,7 +75,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -99,7 +105,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

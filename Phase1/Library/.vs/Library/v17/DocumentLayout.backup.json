@@ -51,15 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Library",
+              "Title": "Library.csproj",
               "DocumentMoniker": "C:\\Users\\sameera.mohamed\\source\\repos\\Library\\Library\\Library.csproj",
               "RelativeDocumentMoniker": "Library\\Library.csproj",
               "ToolTip": "C:\\Users\\sameera.mohamed\\source\\repos\\Library\\Library\\Library.csproj",
               "RelativeToolTip": "Library\\Library.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-25T13:37:48.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T13:37:48.699Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "Library\\SecureApp.cs",
               "ToolTip": "C:\\Users\\sameera.mohamed\\source\\repos\\Library\\Library\\SecureApp.cs",
               "RelativeToolTip": "Library\\SecureApp.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAqwJIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T13:35:51.252Z",
               "EditorCaption": ""
@@ -84,8 +83,7 @@
               "RelativeToolTip": "LibraryTest\\LibraryUnitTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:33:15.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T19:33:15.247Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Library\\LibrarySys.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAAAUwIsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:33:11.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T19:33:11.996Z"
             }
           ]
         }
