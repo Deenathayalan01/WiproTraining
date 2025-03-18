@@ -1,7 +1,0 @@
-<testsuite name="Mocha Tests" tests="5" failures="0" errors="0" skipped="0" timestamp="Tue, 02 Apr 2024 07:17:08 GMT" time="3.005">
-<testcase classname="fetchData function" name="should fetch data from server with callback" file="/home/workspace/Data-from-server-main/W4D3-Template/test.js" time="1.002"/>
-<testcase classname="fetchData function" name="should fetch data from server using Promise" file="/home/workspace/Data-from-server-main/W4D3-Template/test.js" time="1.001"/>
-<testcase classname="getData function" name="should fetch data from server using async/await" file="/home/workspace/Data-from-server-main/W4D3-Template/test.js" time="1"/>
-<testcase classname="divide function" name="should divide two numbers" file="/home/workspace/Data-from-server-main/W4D3-Template/test.js" time="0"/>
-<testcase classname="divide function" name="should throw an error when dividing by zero" file="/home/workspace/Data-from-server-main/W4D3-Template/test.js" time="0.001"/>
-</testsuite>
